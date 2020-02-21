@@ -1,0 +1,40 @@
+{
+    "models": {
+        "Tabular.JsonConfig": "JsonConfig\\JCTabularContent",
+        "Map.JsonConfig": "JsonConfig\\JCMapDataContent"
+    },
+    "titleMap": {
+        "486": [
+            {
+                "model": "Tabular.JsonConfig",
+                "namespace": 486,
+                "nsName": "Data",
+                "nsTalk": "default",
+                "cacheExp": 86400,
+                "cacheKey": "",
+                "remote": {
+                    "url": "https://commons.wikimedia.org/w/api.php"
+                },
+                "store": {
+                    "cacheNewValue": null,
+                    "notifyUrl": null
+                }
+            },
+            {
+                "model": "Map.JsonConfig",
+                "namespace": 486,
+                "nsName": "Data",
+                "nsTalk": "default",
+                "cacheExp": 86400,
+                "cacheKey": "",
+                "remote": {
+                    "url": "https://commons.wikimedia.org/w/api.php"
+                },
+                "store": {
+                    "cacheNewValue": null,
+                    "notifyUrl": null
+                }
+            }
+        ]
+    }
+}
