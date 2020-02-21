@@ -1,0 +1,10 @@
+	Copy
+{
+    "batchcomplete": "",
+    "query": {
+        "authmanagerinfo": {
+            "canauthenticatenow": "",
+            "cancreateaccounts": ""
+        }
+    }
+}
